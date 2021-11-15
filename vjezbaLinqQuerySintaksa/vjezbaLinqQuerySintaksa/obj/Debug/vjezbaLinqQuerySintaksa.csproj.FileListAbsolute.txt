@@ -1,0 +1,7 @@
+C:\Users\denim\source\repos\vjezbaLinqQuerySintaksa\vjezbaLinqQuerySintaksa\bin\Debug\vjezbaLinqQuerySintaksa.exe.config
+C:\Users\denim\source\repos\vjezbaLinqQuerySintaksa\vjezbaLinqQuerySintaksa\bin\Debug\vjezbaLinqQuerySintaksa.exe
+C:\Users\denim\source\repos\vjezbaLinqQuerySintaksa\vjezbaLinqQuerySintaksa\bin\Debug\vjezbaLinqQuerySintaksa.pdb
+C:\Users\denim\source\repos\vjezbaLinqQuerySintaksa\vjezbaLinqQuerySintaksa\obj\Debug\vjezbaLinqQuerySintaksa.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\vjezbaLinqQuerySintaksa\vjezbaLinqQuerySintaksa\obj\Debug\vjezbaLinqQuerySintaksa.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\vjezbaLinqQuerySintaksa\vjezbaLinqQuerySintaksa\obj\Debug\vjezbaLinqQuerySintaksa.exe
+C:\Users\denim\source\repos\vjezbaLinqQuerySintaksa\vjezbaLinqQuerySintaksa\obj\Debug\vjezbaLinqQuerySintaksa.pdb
